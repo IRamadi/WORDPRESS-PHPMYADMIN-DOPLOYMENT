@@ -154,17 +154,27 @@ This project is licensed under the MIT License.
 
 
 MYSQL_DATABASE=wordpress
+
 MYSQL_USER=wordpress_user
+
 MYSQL_PASSWORD=secure_wordpress_password
 
 # WordPress
+
 WORDPRESS_DB_HOST=db:3306
+
 WORDPRESS_DB_USER=wordpress_user
+
 WORDPRESS_DB_PASSWORD=secure_wordpress_password
+
 WORDPRESS_DB_NAME=wordpress
 
 # phpMyAdmin
+
 PMA_HOST=db
+
 PMA_USER=wordpress_user
+
 PMA_PASSWORD=secure_wordpress_password
+
 PMA_ABSOLUTE_URI=/phpmyadmin
